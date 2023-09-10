@@ -1,0 +1,41 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+body {
+  background-color: #2e2e2e;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Anton';
+  text-shadow: 5px 0 #990101;
+  font-size: 8rem;
+  color: #ffffff;
+}
+
+p {
+  font-size: 3rem;
+  color: #fffefe;
+  text-shadow: 2px 0 #990101;
+  font-family: 'Anton';
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #ffffff;
+  text-align: center;
+  font-family: 'Anton';
+  font-size: larger;
+}
